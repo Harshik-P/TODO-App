@@ -1,0 +1,31 @@
+.Home {
+  width: 3/4;
+  text-align: center;
+}
+
+.inputField {
+  width: 70%;
+  padding-block: 10px;
+  padding-left: 10px;
+  text-align: center;
+}
+
+.ulList {
+  padding-top: 30px;
+  width: 3/4;
+}
+
+.itemListActive {
+  list-style: none;
+}
+
+.itemListInActive {
+  list-style: none;
+  text-decoration: line-through;
+}
+
+
+.eachItem {
+  padding: 20px;
+  border-style: solid;
+}
